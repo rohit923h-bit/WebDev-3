@@ -16,31 +16,31 @@
 ## Postman API Testing
 
 ### 1. Create Product
-![Create Product](/screenshots/screenshots01-create-product.png)
+![Create Product](screenshots/screenshots01-create-product.png)
 
 ### 2. Get All Products
-![Get All Products](/screenshots/screenshots02-get-all-products.png)
+![Get All Products](screenshots/screenshots02-get-all-products.png)
 
 ### 3. Get Product by ID
-![Get Product by ID](/screenshots/screenshots03-get-product-by-id.png)
+![Get Product by ID](screenshots/screenshots03-get-product-by-id.png)
 
 ### 4. Update Product
-![Update Product](/screenshots/screenshots04-update-product.png)
+![Update Product](screenshots/screenshots04-update-product.png)
 
 ### 5. Stock Adjustment
-![Stock Adjustment](/screenshots/screenshots05-stock-adjustment.png)
+![Stock Adjustment](screenshots/screenshots05-stock-adjustment.png)
 
 ### 6. Low Stock Report
-![Low Stock](/screenshots/screenshots06-low-stock.png)
+![Low Stock](screenshots/screenshots06-low-stock.png)
 
 ### 7. Category-wise Inventory Summary
-![Category Summary](/screenshots/screenshots07-category-summary.png)
+![Category Summary](screenshots/screenshots07-category-summary.png)
 
 ### 8. Filtering, Sorting and Pagination
-![Filtering and Pagination](/screenshots/screenshots08-filter-sort-pagination.png)
+![Filtering and Pagination](screenshots/screenshots08-filter-sort-pagination.png)
 
 ### 9. Delete Product
-![Delete Product](/screenshots/screenshots09-delete-product.png)
+![Delete Product](screenshots/screenshots09-delete-product.png)
 
 ## Conclusion
 
