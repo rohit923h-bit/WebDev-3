@@ -1,0 +1,12 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Inventory Management API</title>
+</head>
+<body>
+  <h1>Inventory and Data Management System</h1>
+  <p>API is running successfully.</p>
+  <a href="/api/products">View Products API</a>
+</body>
+</html>
